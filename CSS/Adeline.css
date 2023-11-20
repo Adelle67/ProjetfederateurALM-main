@@ -4,7 +4,33 @@ body {
 
 }
 
- 
+header {
+    background-color: red; !important
+}
+
+.image a {
+    width: 500px;
+    height: 500px;
+}
+
+.image {
+    background: url("../images/Via\ formation.jpg");
+    background-size: 500px 500px;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+}
+
+.image:hover {
+    background: url("../images/imagedeux.png");
+    background-size: 500px 500px;
+    background-repeat: no-repeat;
+    transition: all 0.5s;
+}
+
+main {
+    background-color: #a7e0e0b4;
+}
 
 h1{color: rgb(43, 67, 226);
 
@@ -52,7 +78,7 @@ head{
 
     fieldset{
 
-        padding: 500px;
+        padding: 30px;
 
     }
 
