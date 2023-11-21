@@ -1,8 +1,8 @@
 body {
 
     background-color: rgba(132, 132, 235, 0.373);
-
 }
+
 div{
     align-items: center;
 }
@@ -16,6 +16,7 @@ header {
 }
 div a {
     color: rgb(255, 247, 0);
+    align-items: center;
 
 
 }
@@ -33,6 +34,7 @@ div a {
     background-size: 400px 400px;
     background-repeat: no-repeat;
     transition: all 0.5s;
+    align-items: center;
 }
 
 main {
