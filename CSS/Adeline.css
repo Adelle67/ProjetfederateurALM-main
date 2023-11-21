@@ -1,18 +1,24 @@
 body {
 
-    background-color: rgb(247, 247, 253);
+    background-color: rgba(132, 132, 235, 0.373);
 
 }
-
+div{
+    align-items: center;
+}
 header {
-    background-color: red; !important
+    background-color: rgb(20, 56, 164); !important
 }
 
 .image a {
     width: 500px;
     height: 500px;
 }
+div a {
+    color: rgb(255, 247, 0);
 
+
+}
 .image {
     background: url("../images/Via\ formation.jpg");
     background-size: 500px 500px;
