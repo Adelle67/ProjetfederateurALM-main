@@ -19,9 +19,10 @@ div a {
 
 
 }
+
 .image {
     background: url("../images/Via\ formation.jpg");
-    background-size: 500px 500px;
+    background-size: 700px 400px;
     background-repeat: no-repeat;
     display: flex;
     align-items: center;
@@ -29,7 +30,7 @@ div a {
 
 .image:hover {
     background: url("../images/imagedeux.png");
-    background-size: 500px 500px;
+    background-size: 400px 400px;
     background-repeat: no-repeat;
     transition: all 0.5s;
 }
