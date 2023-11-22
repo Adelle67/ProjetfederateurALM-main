@@ -1,15 +1,4 @@
-**{ 
 
-    margin: 100; 
-    padding: 0; 
-       box-sizing: border-box; 
-       font-family: 'Poppins', sans-serif; 
-       
-
-
-
-
-    }
 
        body {
 
@@ -40,6 +29,21 @@ p{
     text-align: center;
 
 }
+
+
+ul{
+
+    color: rgb(4, 4, 5);
+    font-weight: 800;
+        text-align: center;
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+    font-style: oblique;
+    text-align: center;
+    text-decoration-line: underline;
+}
+
 
        h1{color: rgb(43, 67, 226);
         font-weight: 50;
@@ -76,9 +80,9 @@ p{
         max-width: 900px; 
         color: aliceblue; 
         text-align: center; 
-        padding: 10px 10px; 
+        padding: 5px 10px; 
    
-        border: 1px solid rgba(255,255,255, 0.3); 
+        border: 35px solid rgba(255,255,255, 0.3); 
         background: rgba(255,255,255, 0.2); 
         border-radius: 16px; 
         box-shadow: 10px 30px rgb(20, 18, 18); 
@@ -88,7 +92,7 @@ p{
        
        .carte img{ 
        width: 250px; 
-        border-radius: 30%; 
+        border-radius: 80%; 
        
        } 
        
@@ -96,14 +100,20 @@ p{
        
        width: 100px; 
        border-radius: 50%; 
-       margin: 50px 10px; 
+       margin: 20px 10px; 
        
        } 
        
   
 
-       
+       footer{
+    
+   background-clip: unset;
+        background-position: center; 
+        background-size: cover;
+        display: flex; 
+        align-items: center; 
+        justify-content: center; 
+       }
   
     
-        
-       
