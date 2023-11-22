@@ -1,126 +1,109 @@
-body {
+**{ 
 
-    background-color: rgba(132, 132, 235, 0.373);
-}
-
-div{
-    align-items: center;
-}
-header {
-    background-color: rgb(20, 56, 164); !important
-}
-
-.image a {
-    width: 500px;
-    height: 500px;
-}
-div a {
-    color: rgb(255, 247, 0);
-    align-items: center;
+    margin: 100; 
+    padding: 0; 
+       box-sizing: border-box; 
+       font-family: 'Poppins', sans-serif; 
+       
 
 
-}
 
-.image {
-    background: url("../images/Via\ formation.jpg");
-    background-size: 700px 400px;
-    background-repeat: no-repeat;
-    display: flex;
-    align-items: center;
-}
 
-.image:hover {
-    background: url("../images/imagedeux.png");
-    background-size: 400px 400px;
-    background-repeat: no-repeat;
-    transition: all 0.5s;
-    align-items: center;
-}
+    }
 
-main {
-    background-color: #a7e0e0b4;
-}
+       body {
 
-h1{color: rgb(43, 67, 226);
-
-    font-weight: 600;
-
-    text-align: center;
-
-    display: block;
-
-    margin-right: auto;
-
-    margin-left: auto;
-
-font-style:oblique;
-
-text-align: center;}
-
- 
-
-head{
-
-    color: aquamarine;
-
-}
-
-    h2{
-
-   
-
+        background-color: rgba(26, 232, 229, 0.373);
+    
+    }
+    
+h2{
+    color: rgb(4, 4, 5);
+    font-weight: 50;
         text-align: center;
-
-        border-image-slice: 300px;
-
         display: block;
-
         margin-right: auto;
-
         margin-left: auto;
-
-        font-size: xx-large;
-
-        text-align-last: unset;
-
-    }
-
-    fieldset{
-
-        padding: 30px;
-
-    }
-
- 
-
- h3{
-
+    font-style:oblique;
     text-align: center;
 
-   font-size: xx-large;
+}
 
-    color: chocolate;
+p{
+    color: rgb(4, 4, 5);
+    font-weight: 50;
+        text-align: center;
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+    font-style:oblique;
+    text-align: center;
 
- }
+}
 
- 
+       h1{color: rgb(43, 67, 226);
+        font-weight: 50;
+            text-align: center;
+            display: block;
+            margin-right: auto;
+            margin-left: auto;
+        font-style:oblique;
+        text-align: center;
+    }
 
- fieldset{
 
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-
- }  
-
+       .ecran{ 
+              
+    width: 100%; 
+        height: 80vh; 
+        background-image: url("../IMAGES/Japon.jpg"); 
+        background-position: center; 
+        background-size: cover;
+        display: flex; 
+        align-items: center; 
+        justify-content: center; 
+       
+       } 
+       
+       a:-webkit-any-link {
+         color: rgb(17, 12, 12);
+         cursor: pointer;
+         text-decoration: none;
+     }
    
+       .carte{ 
+        width: 20%; 
+        max-width: 900px; 
+        color: aliceblue; 
+        text-align: center; 
+        padding: 10px 10px; 
+   
+        border: 1px solid rgba(255,255,255, 0.3); 
+        background: rgba(255,255,255, 0.2); 
+        border-radius: 16px; 
+        box-shadow: 10px 30px rgb(20, 18, 18); 
+        backdrop-filter: blur(5px); 
+       
+       } 
+       
+       .carte img{ 
+       width: 250px; 
+        border-radius: 30%; 
+       
+       } 
+       
+       .carte .reseau img{ 
+       
+       width: 100px; 
+       border-radius: 50%; 
+       margin: 50px 10px; 
+       
+       } 
+       
+  
 
-  img{
-
-    border-image-slice: 100px;
-
-    display: block;
-
-    margin-right: auto;
-
-    margin-left: auto;    
-
-  }
+       
+  
+    
+        
+       
