@@ -4,7 +4,8 @@ p{
 }
         background-color: rgba(26, 232, 229, 0.373);
 
-    }
+ }
+
     
 h2{
     color: rgb(4, 4, 5);
@@ -13,7 +14,7 @@ h2{
         display: block;
         margin-right: auto;
         margin-left: auto;
-    font-style:oblique;
+    font-style: calc();
     text-align: center;
 
 }
