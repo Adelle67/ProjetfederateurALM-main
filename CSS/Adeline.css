@@ -1,6 +1,7 @@
-
        body {
-
+p{
+    text-align: initial;
+}
         background-color: rgba(26, 232, 229, 0.373);
 
     }
@@ -19,7 +20,7 @@ h2{
 
 p{
     color: rgb(4, 4, 5);
-    font-weight: 50;
+    font-weight: 80;
         text-align: center;
         display: block;
         margin-right: auto;
