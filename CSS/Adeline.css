@@ -78,10 +78,10 @@ ul{
    
      .carte{ 
         width: 450%; 
-        max-width: 400px; 
+        max-width: 800px; 
         color: aliceblue; 
         text-align: center; 
-        padding: 60px 220px; 
+        padding: 20px 10px; 
    
         border: 4px solid rgba(255,255,255, 0.3); 
         background: rgb(255, 255, 255); 
