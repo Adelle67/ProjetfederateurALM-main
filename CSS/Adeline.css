@@ -4,9 +4,8 @@
 
         background-color: rgba(74, 192, 192, 0.373);
         margin-right: auto;
-        margin-left: auto;
+        margin-left: auto; }
 
- }
 a{
 
     color: rgb(4, 4, 5);
@@ -43,7 +42,6 @@ p{
 
 }
 
-
 ul{
 
     color: rgb(4, 4, 5);
@@ -54,8 +52,7 @@ ul{
         margin-left: auto;
     font-style: oblique;
     text-align: center;
-    text-decoration-line: underline;
-}
+    text-decoration-line: underline;}
 
 
        h1{color: rgb(43, 67, 226);
@@ -69,10 +66,11 @@ ul{
     }
 
 
+
        .ecran{ 
               
     width: 100%; 
-        height: 80vh; 
+        height: 90vh; 
         background-image: url("../IMAGES/Forêt.png"); 
         background-position: center; 
         background-size: cover;
@@ -85,49 +83,48 @@ ul{
        a:-webkit-any-link {
          color: rgb(17, 12, 12);
          cursor: pointer;
-         text-decoration: none;
-     
+         text-decoration: none;  
      }
    
      .carte{ 
-        width: 450%; 
-        max-width: 800px; 
+        width: 100%; 
+        max-width: 500px; 
         color: aliceblue; 
         text-align: center; 
-        padding: 20px 10px; 
+        padding: 90px 90px; 
    
         border: 4px solid rgba(255,255,255, 0.3); 
         background: rgb(255, 255, 255); 
-        border-radius: 20px; 
-        box-shadow: 10px 40px rgba(30, 63, 93, 0.861); 
-        backdrop-filter: blur(5px); 
+        border-radius: 35px; 
+        box-shadow: 50px 40px rgba(30, 63, 93, 0.861); 
+        backdrop-filter: blur(50px); 
        
        } 
        
        .carte img{ 
         width: 250px; 
-         border-radius: 5%; 
+         border-radius: 4%; 
                 } 
         
        .carte .reseau img{ 
        
-        width: 25px; 
+        width: 10px; 
         border-radius: 100%; 
         margin: 300px 10px; 
         
         } 
        
   
-
-       footer{
+        footer{
     
-        background-clip: unset;
-             background-position: center; 
-             background-size: cover;
-             display: flex; 
-             align-items: center; 
-             justify-content: center; 
-            }
+            background-clip: unset;
+                 background-position: center; 
+                 background-size: cover;
+                 display: flex; 
+                 align-items: center; 
+                 justify-content: center; 
+                }
+
   
     
  
